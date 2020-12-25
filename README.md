@@ -14,5 +14,8 @@ $ npm run dev
 $ npm run build
 ```
 
+## 后端接口地址
+https://github.com/Restorff/film-comment-interface
 
-
+## 管理后台界面地址
+https://github.com/Restorff/filmcomment-front-admin
