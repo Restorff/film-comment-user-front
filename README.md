@@ -1,23 +1,18 @@
-# {{ name }}
+# 影评系统前台用户页面
 
-> {{ description }}
 
-## Build Setup
+## 初始项目
 
 ``` bash
-# install dependencies
+# 安装依赖包，进入当前目录，打开命令行输入下面代码
 $ npm install # Or yarn install
 
-# serve with hot reload at localhost:3000
+# 安装好依赖之后，输入下面命令项目会在 localhost:3000 运行
 $ npm run dev
 
-# build for production and launch server
+# 部署到服务器时，执行下面命令，因为在配置文件里我已经把build里面整合了start，所以只需要运行下面一条命令，建议使用pm2管理。
 $ npm run build
-$ npm start
-
-# generate static project
-$ npm run generate
 ```
 
-For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
+
 
